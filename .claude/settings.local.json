@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh pr view:*)",
+      "Read(/C:\\Github\\AdventurerGuild\\.claude\\agents/**)",
+      "Read(/C:\\Github\\AdventurerGuild/**)",
+      "Write(/C:\\Github\\AdventurerGuild/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
